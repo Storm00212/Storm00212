@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Storm00212
-- 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...sql,javascript ,java and php
-- 💞️ I’m looking to collaborate on ...a shopping website
+- 👀 I’m interested in ...Web development,engineering and tech
+- 🌱 I’m currently learning ...javascript frameworks(react, node and nextjs) as well as PCB design,Arduino programming and IoT using esp32
+- 💞️ I’m looking to collaborate on ...any tech project involving the above
 - 📫 How to reach me ...paulmuyalikhams@gmail.com 
 - 😄 Pronouns: ...he😂
 - ⚡ Fun fact: ...I'm cool
