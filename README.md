@@ -14,6 +14,7 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 ---
 
 ## 👀 Areas of Interest
+<img src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = "800" />
 
 * Scalable Full-Stack Web Development (React, Node.js, Next.js)
 * Embedded Systems & IoT (Arduino, ESP32, real-time applications)
