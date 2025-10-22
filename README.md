@@ -1,10 +1,13 @@
-# 🚀 Paul Muyali (@Storm00212)
+#  Paul Muyali (@Storm00212)
 
 **Full-Stack & Embedded Systems Engineer in Progress | Web Development | Electronics & PCB Design | IoT & Machine Learning**
 
 ---
 
-## 👋 About Me
+<img src="https://raw.githubusercontent.com/Storm00212/Storm00212/main/profile-dev.png" width="300" alt="Developer illustration" />
+
+
+##  About Me
 
 I am an enthusiastic and versatile engineer passionate about bridging the gap between **software and hardware**. My focus is on developing modern **web applications**, designing **intelligent electronics**, and building **IoT-powered systems**. I thrive on solving complex problems and enjoy creating impactful solutions that combine **precision engineering with cutting-edge software**.
 
@@ -20,7 +23,7 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 
 ---
 
-## 🌱 Currently Growing In
+##  Currently Growing In
 
 * Advanced React/Next.js architectures for performance
 * IoT integration with ESP32 and cloud ecosystems
@@ -30,7 +33,7 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 
 ---
 
-## 💼 Open to Collaboration On
+##💼 Open to Collaboration On
 
 * Full-stack applications with real-world impact
 * IoT solutions that connect people, devices, and data
@@ -39,37 +42,37 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 📧 **Email:** [paulmuyalikhams@gmail.com](mailto:paulmuyalikhams@gmail.com)
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I enjoy building systems where **hardware and software work seamlessly together** — turning raw ideas into working, reliable solutions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🌐 Web Development
+###  Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 
-### 🤖 Machine Learning & AI
+###  Machine Learning & AI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 
-### 🔌 Electronics & IoT
+###  Electronics & IoT
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge\&logo=kicad\&logoColor=white)
 
-### ⚙️ Tools & Workflow
+###  Tools & Workflow
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
@@ -77,7 +80,7 @@ I enjoy building systems where **hardware and software work seamlessly together*
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Storm00212\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Storm00212\&layout=compact\&theme=tokyonight)
