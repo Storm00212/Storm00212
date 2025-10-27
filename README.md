@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" alt="Developer illustration" />
 
 
-##  About Me
+##  About Me(I make cool stuff)
 
 I am an enthusiastic and versatile engineer passionate about bridging the gap between **software and hardware**. My focus is on developing modern **web applications**, designing **intelligent electronics**, and building **IoT-powered systems**. I thrive on solving complex problems and enjoy creating impactful solutions that combine **precision engineering with cutting-edge software**.
 
