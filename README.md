@@ -67,15 +67,41 @@ I enjoy building systems where **hardware and software work seamlessly together*
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
 
+## Database Technologies
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?logo=postgresql&logoColor=white)
+
+## Quality Assurance & Engineering
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+
 ###  Machine Learning & AI
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
 
 ###  Electronics & IoT
-
+![Proteus](https://img.shields.io/badge/Proteus-1D4ED8?logo=proteus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge\&logo=kicad\&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FF6F00?logo=simulink&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-A10000?logo=analogdevices&logoColor=white)
 
 ###  Tools & Workflow
 
