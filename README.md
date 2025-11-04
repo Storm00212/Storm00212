@@ -1,6 +1,6 @@
 #  Paul Muyali (@Storm00212)
 
-**Full-Stack & Embedded Systems Engineer in Progress | Web Development | Electronics & PCB Design | IoT & Machine Learning**
+**Full-Stack & Embedded Systems Engineer in Progress | Web Development | Electronics & PCB Design | IoT & Machine Learning | Quality Assurance/Quality Engineer**
 
 ---
 
