@@ -13,7 +13,7 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 
 ---
 
-## 👀 Areas of Interest
+## Areas of Interest
 <img src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = "1000" />
 
 * Scalable Full-Stack Web Development (React, Node.js, Next.js)
@@ -36,19 +36,22 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 
 ---
 
-##💼 Open to Collaboration On
+## Open to Collaboration On
 
 * Full-stack applications with real-world impact
 * IoT solutions that connect people, devices, and data
+* Engineering schematic design
 * Writing software tests using Tyoescript.
 * Machine learning for intelligent automation.
-* High-tech, defense, and aerospace-related projects.
+  
 
 ---
 
 ##  Contact Me
 
-📧 **Email:** [paulmuyalikhams@gmail.com](mailto:paulmuyalikhams@gmail.com)
+ **Email:** [paulmuyalikhams@gmail.com](mailto:paulmuyalikhams@gmail.com)
+ **Portfolio:** [Portfolio](https://portfolio-1o33.vercel.app/)
+
 
 ---
 
