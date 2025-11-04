@@ -27,9 +27,11 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 ##  Currently Growing In
 
 * Advanced React/Next.js architectures for performance
+* QA/QE tests namely unit testing with jest, intergration testing and performance testing using k6
 * IoT integration with ESP32 and cloud ecosystems
 * PCB design for compact, optimized, and robust systems
 * Applying TensorFlow for smart devices and automation
+* Learning machine learning models and data analysis using Jupyter Notebook
 * Mixed-signal electronics for real-world problem solving
 
 ---
@@ -38,8 +40,9 @@ I am an enthusiastic and versatile engineer passionate about bridging the gap be
 
 * Full-stack applications with real-world impact
 * IoT solutions that connect people, devices, and data
-* Machine learning for intelligent automation
-* High-tech, defense, and aerospace-related projects
+* Writing software tests using Tyoescript.
+* Machine learning for intelligent automation.
+* High-tech, defense, and aerospace-related projects.
 
 ---
 
