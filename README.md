@@ -116,13 +116,13 @@ I enjoy building systems where **hardware and software work seamlessly together*
 ##  GitHub Analytics
 
 
-![Storm00212's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Storm00212&theme=github)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Storm00212\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Storm00212\&layout=compact\&theme=tokyonight)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Storm00212\&theme=tokyonight)
-
+![Storm00212's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Storm00212&theme=github)
 ---
 
 > *“Engineering is not just about solving problems — it’s about shaping the future with innovation, precision, and creativity.”*
